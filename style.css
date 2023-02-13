@@ -1,0 +1,162 @@
+nav{
+    display: flex;
+    justify-content:space-around;
+    position: sticky;
+    top: 0;
+    background-color:hsla(0,0%,100%,.98);;
+    
+    
+    }
+img{
+   width: 200px;
+}
+a{
+    text-decoration: none;
+    color: #ababab;
+
+    }
+
+.assala{
+    color:#00b39b
+}
+.azer:hover {
+    color:#00b39b
+  }
+ 
+  .hazem {
+    width: 39px;
+    
+ }
+ .ss{
+    display: flex;
+    justify-content: center;
+ }
+ p{display: flex;
+    justify-content: center;
+    margin: 1em 0;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+.kk{
+    display: flex;
+    justify-content:center ;
+   
+    
+   
+}
+.aa{
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+    width: 471px;
+    font-size: large;
+   
+    padding-top: 13px;
+    -webkit-font-smoothing: antialiased;
+    margin-left: 80px;
+   
+}
+.ff{
+    background-color: #00b39b;
+    border-radius: 10px;
+    padding: 2em 2em 0;
+   
+    height: 345px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    /* margin-left: 100px;
+    margin-right: 1033px; */
+    color: #fff;
+    width: 256px;
+    
+}
+.jj{
+    width: 35px;
+    margin-bottom: -97px;
+}
+.yy{
+    background-color: #3d83df;
+    border-radius: 10px;
+    padding: 2em 2em 0;
+    /*overflow: hidden;*/
+    height: 345px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    /* margin-left: 100px;
+    margin-right: 1033px; */
+    color: #fff;
+    width: 256px;
+}
+.bb{
+    width: 35px;
+    margin-bottom: -97px;
+
+
+}
+.zz{
+    background-color: #1b2734;
+    border-radius: 10px;
+    padding: 2em 2em 0;
+    
+    height: 345px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    /* margin-left: 100px;
+    margin-right: 1033px; */
+    color: #fff;
+    width: 256px;
+}
+.ww{
+    width: 35px;
+    margin-bottom: -97px;
+}
+.oo{
+    text-decoration:underline;
+}
+.projects{
+    display: flex;
+    justify-content: space-around;
+        
+   
+}
+
+
+    
+     
+     
+    
+    
+.mahmoud{
+    display: flex;
+    justify-content: space-around;
+        width: 254px;
+
+}
+
+
+    
+    
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+    
+
+    
