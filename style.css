@@ -124,7 +124,6 @@ a{
 .projects{
     display: flex;
     justify-content: space-around;
-        
    
 }
 
@@ -140,6 +139,44 @@ a{
         width: 254px;
 
 }
+.abc{
+    display: flex;
+    justify-content: center;
+    color: #00b39b;
+    width: 234px;
+    margin-left: 81px;
+}
+
+.cl {
+    width: 150px;
+    margin-right: 200px;
+    margin-top: -34px;
+    
+}
+.cj{
+    
+        
+}
+    
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+     
+    
+
+    
+    
+
 
 
     
